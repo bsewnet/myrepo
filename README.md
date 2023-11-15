@@ -12,4 +12,4 @@
 
 [This is a link]( www.google.ca) 
 
-![headshot of man](/folder/image.jpg)
+![headshot of man](z.png)
